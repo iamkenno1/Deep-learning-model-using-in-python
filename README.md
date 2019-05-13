@@ -9,7 +9,7 @@ PyTorch on AWS.
 
 ##Dataset 
 ----------
-|CNN from scratch| cifar-100-python|
 |----------------|-----------------|
+|CNN from scratch| cifar-100-python|
 |Transfer Learning| Faces Dataset: http://vis-www.cs.umass.edu/lfw/|
 
