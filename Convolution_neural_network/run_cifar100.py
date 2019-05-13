@@ -1,9 +1,5 @@
 """
-=> Your Name:Kuei Fang
-
-In this script, you need to plot the average training loss vs epoch using a learning rate of 0.1 and a batch size of 128 for 15 epochs.
-
-=> Final accuracy on the test set: 0.73
+Final accuracy on the test set: 0.73
 
 """
 

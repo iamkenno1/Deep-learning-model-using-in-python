@@ -7,7 +7,21 @@ Deep-learning-model-using-in-python
 PyTorch on AWS.
 
 
-## Dataset 
+### Convolution Neural Network
+* Before using, we need to download the dataset and adjust the dataset path in layer/dataset.py.
+* run run_cifar100.py.
+
+### ML Algorithm
+* In each folder, use the run_XXX.py
+
+### Transfer Learning
+* Before using, we need to download the dataset and adjust the dataset path in dataset.py.
+* run feature.py for feature extractor.
+* run fintune.py for fine tune.
+
+
+
+### Dataset 
 ----------
 |Project|dataset| 
 |----------------|-----------------|
